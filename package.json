@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "bintopia-blog",
   "private": true,
   "description": "A starter for a blog powered by Gatsby and Markdown",
   "version": "0.1.0",
@@ -10,8 +10,6 @@
   "dependencies": {
     "gatsby": "^4.12.1",
     "gatsby-plugin-feed": "^4.12.1",
-    "gatsby-plugin-gatsby-cloud": "^4.12.1",
-    "gatsby-plugin-google-analytics": "^4.12.1",
     "gatsby-plugin-image": "^2.12.1",
     "gatsby-plugin-manifest": "^4.12.1",
     "gatsby-plugin-offline": "^5.12.1",
